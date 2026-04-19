@@ -7,6 +7,7 @@ Strategic data visualization project for Tata Group, leveraging Python for data 
 This repository contains a strategic data analytics project developed for **Tata Group**. The goal was to transform raw transactional data into actionable business intelligence using **Python** for data engineering and **Power BI** for executive storytelling.
 
 ## 🖼️ Dashboard Preview
+<img width="1309" height="734" alt="Screenshot 2026-04-19 231453" src="https://github.com/user-attachments/assets/af4bb280-e9de-4994-b911-fc9aaddf3625" />
 
 > *Above: A comprehensive view of the Tata Retail Executive Dashboard.*
 
