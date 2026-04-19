@@ -8,7 +8,9 @@ This repository contains a strategic data analytics project developed for **Tata
 
 ## 🖼️ Dashboard Preview
 <img width="1309" height="734" alt="Screenshot 2026-04-19 231453" src="https://github.com/user-attachments/assets/af4bb280-e9de-4994-b911-fc9aaddf3625" />
-
+<img width="1309" height="733" alt="Screenshot 2026-04-19 231533" src="https://github.com/user-attachments/assets/bfb019f3-a323-42f0-8cbe-08c47dde043c" />
+<img width="1310" height="736" alt="Screenshot 2026-04-19 231554" src="https://github.com/user-attachments/assets/ddc90812-b71d-49e7-8ac9-c4bd90a6dfdb" />
+<img width="1313" height="735" alt="Screenshot 2026-04-19 231612" src="https://github.com/user-attachments/assets/c5910383-a40f-4d9c-a41f-c308ff6382d3" />
 > *Above: A comprehensive view of the Tata Retail Executive Dashboard.*
 
 -----
